@@ -17,7 +17,7 @@ This project is a license management system built specifically for the FilamentB
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/saade/filamentbr-community-licenses.git
+git clone https://github.com/filamentphp-br/licenses.git
 ```
 
 2. Install PHP dependencies:
